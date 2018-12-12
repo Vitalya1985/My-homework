@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>homework</name>
+    </assembly>
+    <members>
+        <member name="M:homework.Car.PriceIsGreater(System.Collections.Generic.List{homework.Car})">
+            <summary>
+            Select all cars whose price is greater than 10_000
+            </summary>
+            <param name="car">
+            List
+            </param>
+            <exception cref="T:System.Collections.IList"> PriceIsGreater</exception>"
+            <returns>return car list (List)</returns>
+        </member>
+        <member name="M:homework.Car.CarsInRed(System.Collections.Generic.List{homework.Car})">
+            <summary>
+            Select all cars in red
+            </summary>
+            <param name="car">
+            List
+            </param>
+            <exception cref="T:System.Collections.Generic.List`1">CarsInRed</exception>
+            <returns>return car list (List)</returns>
+        </member>
+        <member name="M:homework.Car.GivenPrice_andBrand(System.Collections.Generic.List{homework.Car},System.String,System.Decimal)">
+            <summary>
+            Select all cars for a given price and brand of car
+            </summary>
+            <param name="car">List</param>
+            <param name="col">string</param>
+            <param name="pr">decimal</param>
+            <exception cref="T:System.Collections.Generic.List`1">GivenPrice_andBrand</exception>
+            <returns>return car list (List)</returns>
+        </member>
+        <member name="M:homework.Car.Sum(System.Collections.Generic.List{homework.Car})">
+            <summary>
+            Print the sum of the cost of all machines
+            </summary>
+            <param name="car">List</param>
+            <exception cref="T:System.Collections.Generic.List`1">Sum</exception>
+            <returns>return sum (decimal)</returns>
+        </member>
+        <member name="M:homework.Car.HowManyCars(System.Collections.Generic.List{homework.Car})">
+            <summary>
+            Print how many cars are red
+            </summary>
+            <param name="car">List</param>
+            <exception cref="T:System.Collections.Generic.List`1">HowManyCars</exception>
+            <returns>return kol (int)</returns>
+        </member>
+        <member name="M:homework.Car.CheapCars(System.Collections.Generic.List{homework.Car})">
+            <summary>
+            all cheap cars 
+            </summary>
+            <param name="car">List</param>
+            <exception cref="T:System.Collections.Generic.List`1">CheapCars</exception>
+            <returns>return car list (List)</returns>
+        </member>
+        <member name="M:homework.Car.SelectAllCars(System.Collections.Generic.List{homework.Car},System.Decimal,System.Decimal)">
+            <summary>
+            all cars (by price) in range
+            </summary>
+            <param name="car">List</param>
+            <param name="pr1">int</param>
+            <param name="pr2">int</param>
+            <exception cref="T:System.Collections.Generic.List`1">SelectAllCars</exception>
+            <returns>return car list (List)</returns>
+            <returns>return number of red (int)</returns>
+            <returns>return number of black (int)</returns>
+        </member>
+    </members>
+</doc>

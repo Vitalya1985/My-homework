@@ -1,0 +1,11 @@
+F:\Виталя\С#\9\Homework\homework\homework\bin\Debug\homework.exe.config
+F:\Виталя\С#\9\Homework\homework\homework\bin\Debug\homework.exe
+F:\Виталя\С#\9\Homework\homework\homework\bin\Debug\homework.pdb
+F:\Виталя\С#\9\Homework\homework\homework\obj\Debug\homework.csprojAssemblyReference.cache
+F:\Виталя\С#\9\Homework\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+F:\Виталя\С#\9\Homework\homework\homework\obj\Debug\homework.exe
+F:\Виталя\С#\9\Homework\homework\homework\obj\Debug\homework.pdb
+F:\Виталя\С#\9\Homework\homework\homework\bin\Debug\homework.xml
+F:\Виталя\С#\9\Homework\homework\homework\bin\Debug\System.ValueTuple.dll
+F:\Виталя\С#\9\Homework\homework\homework\bin\Debug\System.ValueTuple.xml
+F:\Виталя\С#\9\Homework\homework\homework\obj\Debug\homework.csproj.CopyComplete
